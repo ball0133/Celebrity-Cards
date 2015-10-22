@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.btn {
+    width: 318px;
+}
+
+.card {
+    width: 318px;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+
+ul>li:first-child {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+span {
+    color: #9eb2c6;
+    letter-spacing: .50px;
+}
+
+.quote {
+    font-style: italic;
+}

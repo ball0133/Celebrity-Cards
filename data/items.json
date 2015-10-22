@@ -1,0 +1,100 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Ian Somerhalder",
+            "age": "36 years old",
+            "quote": "No one knows what women want!",
+            "earnings": "$75,000,000",
+            "image": "images/ian-somerhalder.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Emilia Clarke",
+            "age": "28 years old",
+            "quote": "I'm just a girl who loves mascara.",
+            "earnings": "$2,100,000",
+            "image": "images/emilia-clarke.png"
+        },
+        {
+            "id": 3,
+            "name": "Justin Timberlake",
+            "age": "34 years old",
+            "quote": "I used to think I actually was Batman.",
+            "earnings": "$63,500,000",
+            "image": "images/justin-timberlake.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Mila Kunis",
+            "age": "32 years old",
+            "quote": "I'm still a Star Trek fan.",
+            "earnings": "$30,000,000",
+            "image": "images/mila-kunis.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Chris Hemsworth",
+            "age": "32 years old",
+            "quote": "For three years, I had embarassing haircuts.",
+            "earnings": "$27,000,000",
+            "image": "images/chris-hemsworth.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Jennifer Lawrence",
+            "age": "25 years old",
+            "quote": "Did I feel naked being naked? Yeah. Totally.",
+            "earnings": "$52,000,000",
+            "image": "images/jennifer-lawrence.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Zooey Deschanel",
+            "age": "35 years old",
+            "quote": "I think penguins are cute.",
+            "earnings": "$16,000,000",
+            "image": "images/zooey-deschanel.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Ryan Reynolds",
+            "age": "38 years old",
+            "quote": "I'm a bit of an M&M nut.",
+            "earnings": "$45,000,000",
+            "image": "images/ryan-reynolds.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Sofia Vergara",
+            "age": "43 years old",
+            "quote": "I'm fearless.",
+            "earnings": "$28,500,000",
+            "image": "images/sofia-vergara.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Bradley Cooper",
+            "age": "40 years old",
+            "quote": "I'm so boring.",
+            "earnings": "$41,500,000",
+            "image": "images/bradley-cooper.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Kristen Bell",
+            "age": "35 years old",
+            "quote": "I have the mouth of a sailor.",
+            "earnings": "$10,100,000",
+            "image": "images/kristen-bell.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Seth Rogen",
+            "age": "33 years old",
+            "quote": "I'm so good at procrastinating.",
+            "earnings": "$58,000,000",
+            "image": "images/seth-rogen.jpg"
+        }
+]
+}
