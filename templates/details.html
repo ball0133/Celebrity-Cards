@@ -6,7 +6,7 @@
                 <h4 class="card-title">{{item.name}}</h4></li>
             <li class="list-group-item quote">{{item.quote}}</li>
             <li class="list-group-item"><span>Age —</span> {{item.age}}</li>
-            <li class="list-group-item"><span>Earnings —</span> {{item.earnings}}</li>
+            <li class="list-group-item"><span>Earnings —</span> {{item.earnings | currency : "$" : 0}}</li>
         </ul>
 
         <p><a class="btn btn-default" href="#/" role="button">&laquo; View List</a></p>
